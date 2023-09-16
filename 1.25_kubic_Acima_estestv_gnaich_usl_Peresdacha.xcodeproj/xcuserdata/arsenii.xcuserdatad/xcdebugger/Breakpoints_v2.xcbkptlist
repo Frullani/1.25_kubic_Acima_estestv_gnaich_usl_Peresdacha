@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E96CC4F8-89B5-4406-A049-69D74875C672"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73D2B5AF-4854-4298-BD4C-E165FBE876A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B056186D-18CB-4116-A7B2-37816E5FA2EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACDA92E7-C7B9-436A-844E-C66FB64433C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "computeAproxPoints(P, x, depth)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8802D2C-4493-41BE-A566-9F8527CE0C68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "computeAproxPoints(P, x, depth)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E8802D2C-4493-41BE-A566-9F8527CE0C68 - 728c7d2c773a3f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "computeAproxPoints(std::__1::vector&lt;Polinomial, std::__1::allocator&lt;Polinomial&gt; &gt;, std::__1::vector&lt;double, std::__1::allocator&lt;double&gt; &gt;, int)"
+                  moduleName = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arsenii/Documents/C_progs/1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "E8802D2C-4493-41BE-A566-9F8527CE0C68 - 728c7d2c773a3f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "computeAproxPoints(std::__1::vector&lt;Polinomial, std::__1::allocator&lt;Polinomial&gt; &gt;, std::__1::vector&lt;double, std::__1::allocator&lt;double&gt; &gt;, int)"
+                  moduleName = "1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arsenii/Documents/C_progs/1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

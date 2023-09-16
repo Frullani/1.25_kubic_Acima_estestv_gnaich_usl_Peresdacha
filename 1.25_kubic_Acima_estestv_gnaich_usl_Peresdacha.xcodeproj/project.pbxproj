@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		AA73FFBF2AA748430011513D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA73FFBE2AA748430011513D /* main.cpp */; };
+		AA73FFC72AA74AB20011513D /* Point.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA73FFC52AA74AB20011513D /* Point.cpp */; };
+		AA73FFCA2AA74BD20011513D /* Function.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA73FFC82AA74BD20011513D /* Function.cpp */; };
+		AA73FFCD2AA74CCC0011513D /* Polynomial.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA73FFCB2AA74CCC0011513D /* Polynomial.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +26,18 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AA5887222AB5E1D500DBCABA /* aproxPoints.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = aproxPoints.txt; sourceTree = "<group>"; };
+		AA5887232AB5E1D500DBCABA /* realPoints.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = realPoints.txt; sourceTree = "<group>"; };
+		AA5887242AB5E26800DBCABA /* paint.gnu */ = {isa = PBXFileReference; lastKnownFileType = text; path = paint.gnu; sourceTree = "<group>"; };
+		AA5887252AB5E35C00DBCABA /* nodesPoints.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = nodesPoints.txt; sourceTree = "<group>"; };
 		AA73FFBB2AA748430011513D /* 1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA73FFBE2AA748430011513D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		AA73FFC52AA74AB20011513D /* Point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Point.cpp; sourceTree = "<group>"; };
+		AA73FFC62AA74AB20011513D /* Point.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Point.hpp; sourceTree = "<group>"; };
+		AA73FFC82AA74BD20011513D /* Function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Function.cpp; sourceTree = "<group>"; };
+		AA73FFC92AA74BD20011513D /* Function.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Function.hpp; sourceTree = "<group>"; };
+		AA73FFCB2AA74CCC0011513D /* Polynomial.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Polynomial.cpp; sourceTree = "<group>"; };
+		AA73FFCC2AA74CCC0011513D /* Polynomial.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Polynomial.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +70,17 @@
 		AA73FFBD2AA748430011513D /* 1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha */ = {
 			isa = PBXGroup;
 			children = (
+				AA73FFC82AA74BD20011513D /* Function.cpp */,
+				AA73FFC92AA74BD20011513D /* Function.hpp */,
+				AA73FFC52AA74AB20011513D /* Point.cpp */,
+				AA73FFC62AA74AB20011513D /* Point.hpp */,
+				AA73FFCB2AA74CCC0011513D /* Polynomial.cpp */,
+				AA73FFCC2AA74CCC0011513D /* Polynomial.hpp */,
 				AA73FFBE2AA748430011513D /* main.cpp */,
+				AA5887222AB5E1D500DBCABA /* aproxPoints.txt */,
+				AA5887232AB5E1D500DBCABA /* realPoints.txt */,
+				AA5887252AB5E35C00DBCABA /* nodesPoints.txt */,
+				AA5887242AB5E26800DBCABA /* paint.gnu */,
 			);
 			path = 1.25_kubic_Acima_estestv_gnaich_usl_Peresdacha;
 			sourceTree = "<group>";
@@ -119,7 +142,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA73FFC72AA74AB20011513D /* Point.cpp in Sources */,
+				AA73FFCA2AA74BD20011513D /* Function.cpp in Sources */,
 				AA73FFBF2AA748430011513D /* main.cpp in Sources */,
+				AA73FFCD2AA74CCC0011513D /* Polynomial.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
